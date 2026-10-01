@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isaia\\OneDrive - University of Central Missouri\\c#\\InvoiceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3FA0A4-1A1D-4B10-B196-8B2ADF189936}|InvoiceDemo.csproj|c:\\users\\isaia\\onedrive - university of central missouri\\c#\\invoicedemo\\invoicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3FA0A4-1A1D-4B10-B196-8B2ADF189936}|InvoiceDemo.csproj|solutionrelative:invoicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3FA0A4-1A1D-4B10-B196-8B2ADF189936}|InvoiceDemo.csproj|c:\\users\\isaia\\onedrive - university of central missouri\\c#\\invoicedemo\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3FA0A4-1A1D-4B10-B196-8B2ADF189936}|InvoiceDemo.csproj|solutionrelative:invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\isaia\\OneDrive - University of Central Missouri\\c#\\InvoiceDemo\\Invoice.cs",
+              "RelativeDocumentMoniker": "Invoice.cs",
+              "ToolTip": "C:\\Users\\isaia\\OneDrive - University of Central Missouri\\c#\\InvoiceDemo\\Invoice.cs",
+              "RelativeToolTip": "Invoice.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T18:23:21.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\isaia\\OneDrive - University of Central Missouri\\c#\\InvoiceDemo\\InvoiceTest.cs",
+              "RelativeDocumentMoniker": "InvoiceTest.cs",
+              "ToolTip": "C:\\Users\\isaia\\OneDrive - University of Central Missouri\\c#\\InvoiceDemo\\InvoiceTest.cs",
+              "RelativeToolTip": "InvoiceTest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T18:22:51.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

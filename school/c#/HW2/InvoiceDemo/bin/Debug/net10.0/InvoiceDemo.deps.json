@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "InvoiceDemo/1.0.0": {
+        "runtime": {
+          "InvoiceDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvoiceDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

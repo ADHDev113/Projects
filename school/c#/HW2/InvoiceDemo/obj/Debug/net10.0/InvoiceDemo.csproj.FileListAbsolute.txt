@@ -1,0 +1,14 @@
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\bin\Debug\net10.0\InvoiceDemo.exe
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\bin\Debug\net10.0\InvoiceDemo.deps.json
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\bin\Debug\net10.0\InvoiceDemo.runtimeconfig.json
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\bin\Debug\net10.0\InvoiceDemo.dll
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\bin\Debug\net10.0\InvoiceDemo.pdb
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\obj\Debug\net10.0\InvoiceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\obj\Debug\net10.0\InvoiceDemo.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\obj\Debug\net10.0\InvoiceDemo.AssemblyInfo.cs
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\obj\Debug\net10.0\InvoiceDemo.csproj.CoreCompileInputs.cache
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\obj\Debug\net10.0\InvoiceDemo.dll
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\obj\Debug\net10.0\refint\InvoiceDemo.dll
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\obj\Debug\net10.0\InvoiceDemo.pdb
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\obj\Debug\net10.0\InvoiceDemo.genruntimeconfig.cache
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\InvoiceDemo\obj\Debug\net10.0\ref\InvoiceDemo.dll
