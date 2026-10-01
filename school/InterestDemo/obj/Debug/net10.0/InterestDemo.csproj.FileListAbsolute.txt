@@ -1,0 +1,14 @@
+/home/isaiah/onedrive/c#/InterestDemo/bin/Debug/net10.0/InterestDemo
+/home/isaiah/onedrive/c#/InterestDemo/bin/Debug/net10.0/InterestDemo.deps.json
+/home/isaiah/onedrive/c#/InterestDemo/bin/Debug/net10.0/InterestDemo.runtimeconfig.json
+/home/isaiah/onedrive/c#/InterestDemo/bin/Debug/net10.0/InterestDemo.dll
+/home/isaiah/onedrive/c#/InterestDemo/bin/Debug/net10.0/InterestDemo.pdb
+/home/isaiah/onedrive/c#/InterestDemo/obj/Debug/net10.0/InterestDemo.GeneratedMSBuildEditorConfig.editorconfig
+/home/isaiah/onedrive/c#/InterestDemo/obj/Debug/net10.0/InterestDemo.AssemblyInfoInputs.cache
+/home/isaiah/onedrive/c#/InterestDemo/obj/Debug/net10.0/InterestDemo.AssemblyInfo.cs
+/home/isaiah/onedrive/c#/InterestDemo/obj/Debug/net10.0/InterestDemo.csproj.CoreCompileInputs.cache
+/home/isaiah/onedrive/c#/InterestDemo/obj/Debug/net10.0/InterestDemo.dll
+/home/isaiah/onedrive/c#/InterestDemo/obj/Debug/net10.0/refint/InterestDemo.dll
+/home/isaiah/onedrive/c#/InterestDemo/obj/Debug/net10.0/InterestDemo.pdb
+/home/isaiah/onedrive/c#/InterestDemo/obj/Debug/net10.0/InterestDemo.genruntimeconfig.cache
+/home/isaiah/onedrive/c#/InterestDemo/obj/Debug/net10.0/ref/InterestDemo.dll
