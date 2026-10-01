@@ -1,0 +1,97 @@
+body
+{
+    background-color: beige;
+}
+h1
+{
+    justify-content: space-evenly;
+    align-items: center;
+    display:flex;
+}
+#dice
+{
+    justify-content: space-evenly;
+    align-items: center;
+    display:flex;
+    text-align: center;
+    font-size: 30px;
+    user-select: none;
+    
+}
+#d20
+{
+    background-color: red;
+    clip-path: polygon(
+        50% 0, 
+        95% 25%, 
+        95% 73%, 
+        50% 100%, 
+        5% 75%, 
+        5% 25%);
+}
+#d12
+{
+    background-color: orange;
+    clip-path: polygon(
+    50% 0%, 
+    80% 10%, 
+    100% 35%, 
+    100% 70%, 
+    80% 90%, 
+    50% 100%, 
+    20% 90%, 
+    0% 70%, 
+    0% 35%, 
+    20% 10%);
+}
+#d10
+{
+    background-color: gold;
+    clip-path: polygon(
+        50% 10%,
+        100% 50%,
+        50% 90%,
+        0% 50%,
+        50% 10%
+    );
+}
+#d8
+{
+    background-color: green;
+    clip-path: polygon(
+        50% 0,
+        100% 50%,
+        50% 100%,
+        0 50%,
+        50% 0
+    );
+}
+#d6
+{
+    background-color: blue;
+}
+#d4
+{
+    background-color: purple;
+    clip-path: polygon(
+        50% 0,
+        100% 85%,
+        0 85%,
+        50% 0
+    );
+}
+.die {
+    width: 30px;
+    height: 30px;
+    padding: 25px;
+    transition: width 0.2s ease, height 0.2s ease;
+    
+}
+.die.grow {
+    width: 50px;
+    height: 50px;
+}
+.die:hover
+{
+    cursor: pointer;
+}
