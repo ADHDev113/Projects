@@ -1,0 +1,17 @@
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\bin\Debug\net10.0-windows\MathLearning.exe
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\bin\Debug\net10.0-windows\MathLearning.deps.json
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\bin\Debug\net10.0-windows\MathLearning.runtimeconfig.json
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\bin\Debug\net10.0-windows\MathLearning.dll
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\bin\Debug\net10.0-windows\MathLearning.pdb
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\obj\Debug\net10.0-windows\MathLearning.Form1.resources
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\obj\Debug\net10.0-windows\MathLearning.csproj.GenerateResource.cache
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\obj\Debug\net10.0-windows\MathLearning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\obj\Debug\net10.0-windows\MathLearning.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\obj\Debug\net10.0-windows\MathLearning.AssemblyInfo.cs
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\obj\Debug\net10.0-windows\MathLearning.csproj.CoreCompileInputs.cache
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\obj\Debug\net10.0-windows\MathLearning.dll
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\obj\Debug\net10.0-windows\refint\MathLearning.dll
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\obj\Debug\net10.0-windows\MathLearning.pdb
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\obj\Debug\net10.0-windows\MathLearning.genruntimeconfig.cache
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\obj\Debug\net10.0-windows\ref\MathLearning.dll
+C:\Users\isaia\OneDrive - University of Central Missouri\c#\MathLearning\obj\Debug\net10.0-windows\MathLear.7CD6F522.Up2Date
